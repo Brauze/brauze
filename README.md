@@ -21,7 +21,7 @@
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=brauze&theme=dark&background=000000)](https://git.io/streak-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=brauze)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ---
